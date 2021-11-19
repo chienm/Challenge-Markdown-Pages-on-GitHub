@@ -20,6 +20,6 @@ This page contains images that have been embedded with markdown.
 
 * [Home](README.md)
 
-* [Page 2](Page_2.md)
-
 * [Videos](Page_3.md)
+
+* [Emoticon](Page_2.md)
