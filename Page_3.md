@@ -12,8 +12,8 @@ Here are videos that I made for this course. Click the image to view the videos.
 
 ## Pages
 
-* [Image](README.md)
+* [Home](README.md)
 
-* [Page 1](Page_1.md)
+* [Image](Page_1.md)
 
 * [Page 2](Page_2.md)
