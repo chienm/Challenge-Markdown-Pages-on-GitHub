@@ -8,7 +8,7 @@ This repository is for the *"Markdown Pages on GitHub"* challenge for INFOTC 160
 
 ## Pages
 
-* [Page 1](Page_1.md)
+* [Image](Page_1.md)
 
 * [Page 2](Page_2.md)
 
