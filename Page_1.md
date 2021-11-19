@@ -13,3 +13,4 @@ This repository is for the *"Markdown Pages on GitHub"* challenge for INFOTC 160
 
 * [Page 2](Page_2.md)
 
+* [Videos](Page_3.md)
