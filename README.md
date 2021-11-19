@@ -1,1 +1,3 @@
-# Challenge-Markdown-Pages-on-GitHub
+# INFOTC 1600 Challenge: Markdown Pages on GitHub
+
+---
