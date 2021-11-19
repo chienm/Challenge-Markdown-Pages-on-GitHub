@@ -6,7 +6,7 @@
 
 This page contains images that have been embedded with markdown.
 
-![Note](Images/note.jpg)
+![Note](note.jpg)
 *This image was actually used for another Github assignment, so I'm resusing it here.
 
 ![Note](Images/note.jpg)
