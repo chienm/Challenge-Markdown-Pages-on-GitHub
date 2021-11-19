@@ -12,7 +12,7 @@ Here are videos that I made for this course. Click the image to view the videos.
 
 ## Pages
 
-* [Home](README.md)
+* [Image](README.md)
 
 * [Page 1](Page_1.md)
 
