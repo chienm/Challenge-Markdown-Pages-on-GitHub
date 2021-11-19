@@ -1,11 +1,15 @@
 # INFOTC 1600 Challenge: Markdown Pages on GitHub
 
-## Page 1
+## Image
 
 ---
 
-This repository is for the *"Markdown Pages on GitHub"* challenge for INFOTC 1600.
+This page contains images that have been embedded with markdown.
 
+![Note](Images/note.jpg)
+*This image was actually used for another Github assignment, so I'm resusing it here.
+
+![Note](Images/note.jpg)
 
 ## Pages
 
