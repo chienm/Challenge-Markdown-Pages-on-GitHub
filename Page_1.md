@@ -10,7 +10,11 @@ This page contains images that have been embedded with markdown.
 
 *This image was actually used for another Github assignment, so I'm resusing it here.
 
-![Money](https://sowoneul.github.io/bandori-gacha-sim/static/media/tsugumoney.0eee08a4.gif)
+![Money0](https://sowoneul.github.io/bandori-gacha-sim/static/media/tsugunomoney.a698363a.gif)![Money1](https://sowoneul.github.io/bandori-gacha-sim/static/media/tsugumoney.0eee08a4.gif)
+
+[Source](https://github.com/sowoneul/bandori-gacha-sim/tree/master/src/img)
+
+![Ditto Magikarp](Ditto.jpg)
 
 ## Pages
 
